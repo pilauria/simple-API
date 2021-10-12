@@ -1,4 +1,4 @@
-Simple app to learn how to Connect to an API with JavaScript
+Simple app to learn how to fetch data from API with JavaScript
 
 source:
 
